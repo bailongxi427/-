@@ -1,0 +1,2 @@
+timestamp,raw_10Hz,raw_12Hz,raw_14Hz,norm_10Hz,norm_12Hz,norm_14Hz,ema_10Hz,ema_12Hz,ema_14Hz,predicted,confidence,is_confident
+2026-05-12 13:44:05.635,0.454290,0.349025,0.262631,1.262902,-0.080263,-1.182639,0.378871,-0.024079,-0.354792,10.0,0.378871,1
